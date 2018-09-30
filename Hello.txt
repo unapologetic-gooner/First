@@ -1,3 +1,4 @@
 Welcome to this git tutorial!
 I am very happy to hold this tutorial. First things first.
 You will need to sign up for a github account.
+Now download Github Desktop.
